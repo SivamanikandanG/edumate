@@ -70,7 +70,7 @@ A modern e-learning platform featuring an interactive 3D instructor, document ma
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mrrohit333/edumate-3d-instructor.git
+   git clone https://github.com/SivamanikandanG/edumate.git
    cd edumate-3d-instructor
    ```
 
