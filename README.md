@@ -141,13 +141,13 @@ Here are example outputs from the Edumate app:
 ![Output 1](https://github.com/SivamanikandanG/edumate/blob/2fc8d23a47999d3bcc7bd7f068f3e06fb8ee3ea4/Output%20(5).png)
 
 ### Output 2
-![Output 2](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output2.png)
+![Output 2](https://github.com/SivamanikandanG/edumate/blob/a47dfb5872ca96b0b0d6785c4a669b458a486e20/Output%20(4).png))
 
 ### Output 3
-![Output 3](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output3.png)
+![Output 3](https://github.com/SivamanikandanG/edumate/blob/a47dfb5872ca96b0b0d6785c4a669b458a486e20/Output%20(3).png)
 
 ### Output 4
-![Output 4](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output4.png)
+![Output 4](https://github.com/SivamanikandanG/edumate/blob/a47dfb5872ca96b0b0d6785c4a669b458a486e20/Output%20(2).png)
 
 ### Output 5
-![Output 5](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output5.png)
+![Output 5](https://github.com/SivamanikandanG/edumate/blob/a47dfb5872ca96b0b0d6785c4a669b458a486e20/Output%20(1).png)
