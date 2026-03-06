@@ -138,8 +138,7 @@ For support, email support@edumate.com or join our Slack channel.
 Here are example outputs from the Edumate app:
 
 ### Output 1
-![Output 1](<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/99ea1138-3f0b-4eeb-857c-cc5a6f9bb1d0" />
-)
+![Output 1](https://github.com/SivamanikandanG/edumate/blob/2fc8d23a47999d3bcc7bd7f068f3e06fb8ee3ea4/Output%20(5).png)
 
 ### Output 2
 ![Output 2](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output2.png)
